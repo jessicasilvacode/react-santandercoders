@@ -1,8 +1,16 @@
-# React + Vite
+# Santander Coders - React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Curso de React básico da Trilha Digital | Web Front-End do Santander Coders 2023 (2° edição)
 
-Currently, two official plugins are available:
+Tópicos estudados: 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [x]  introdução
+- [x]  componentes e props
+- [x]  estados e eventos
+- [x]  renderização condicional
+- [x]  listas e chaves
+- [x]  efeitos colaterais
+- [x]  dados com fetch
+- [x]  estilização com css modules
+
+Projeto de lista de tarefas com React: https://react-santandercoders.vercel.app/
